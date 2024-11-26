@@ -1,7 +1,1 @@
 KEY : jackganteng
-EXPIRED : 26-11-2024
-TIME : 23.00
-
-TUTOR :
-
-Kalo misal pas masukin kode pairing nya loading nya lama, lu cek panel pasti di suruh masukin key nya lagi dan nurut aja masukin key lagi.
